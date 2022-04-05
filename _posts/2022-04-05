@@ -2,4 +2,7 @@
 
 Learned Ruby through Ruby Koans.
 Some interesting facts:
-- 
+- ':' denotes type, like ':String'
+- single quoted string do no interperet escapte characters
+- '<<' could also be used for string concatenation, but it would modify the original string as well, if the original string is used for **assignment**.
+
